@@ -296,4 +296,4 @@ Indian Institute of Information Technology, Kota
 
 [GitHub](https://github.com/ranjanmandal-cse) ·
 [Project Repository](https://github.com/ranjanmandal-cse/secure-multimodal-rag-agent) ·
-[LinkedIn](www.linkedin.com/in/ranjan-kumar-mandal-1886a5196)
+[LinkedIn](https://www.linkedin.com/in/ranjan-kumar-mandal-1886a5196)
