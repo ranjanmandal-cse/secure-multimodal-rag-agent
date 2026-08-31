@@ -1,0 +1,9 @@
+UPI Fraud Guidance
+
+UPI fraud attempts may involve fake payment notifications, fraudulent transaction claims, impersonation, or requests for sensitive information.
+
+Investigators should verify transaction identifiers, amounts, UPI IDs, dates, and the surrounding message context.
+
+A UPI ID or transaction identifier by itself does not prove fraud.
+
+Risk increases when transaction information appears together with requests for OTP, PIN, CVV, passwords, or links to suspicious websites.

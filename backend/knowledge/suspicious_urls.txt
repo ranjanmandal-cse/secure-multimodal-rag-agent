@@ -1,0 +1,9 @@
+Suspicious URL Guidance
+
+Customers should be cautious of links received through unsolicited SMS messages, emails, or social media messages.
+
+A suspicious message may direct a customer to a website that attempts to imitate a legitimate banking website.
+
+Investigators should examine the domain name, URL structure, message context, and whether the link requests credentials or authentication information.
+
+An external URL combined with a request for OTP, PIN, CVV, password, or other sensitive information is a strong fraud indicator.

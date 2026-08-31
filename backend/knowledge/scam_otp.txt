@@ -1,0 +1,11 @@
+OTP Security Guidance
+
+Banks should never ask customers to disclose their OTP to another person.
+
+An OTP is intended to authenticate a transaction or login action initiated by the customer.
+
+Messages asking customers to share, send, or provide an OTP should be treated as suspicious.
+
+Urgent messages threatening account blocking while requesting an OTP are common characteristics of phishing and social engineering attacks.
+
+Investigators should examine the wording of the message, the presence of links, and whether the customer was instructed to disclose authentication information.
