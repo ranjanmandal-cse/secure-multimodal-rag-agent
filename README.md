@@ -19,6 +19,26 @@ This project provides an AI-assisted investigation workflow that combines:
 The system is designed as an investigation-support tool. It does not automatically freeze accounts, reject transactions, or make final legal decisions.
 
 ---
+## System Workflow
+
+```text
+Customer Complaint
+        ↓
+Evidence Upload
+        ↓
+OCR / Document Extraction
+        ↓
+Entity Extraction
+        ↓
+Rule-Based Risk Analysis
+        ↓
+Knowledge Retrieval (RAG)
+        ↓
+LLM Investigation Reasoning
+        ↓
+Investigation Report
+        ↓
+Human Investigator Decision
 
 ## Key Features
 
